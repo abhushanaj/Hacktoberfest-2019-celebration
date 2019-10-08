@@ -15,14 +15,14 @@ Style your pages the way you want. Add custom images, stylesheets and even anima
 
 -----
 
-## 2. Maybe leave few important tips for begineer's:
-Your valuable tips and suggestions that you wish you knew before you started and suggest every begineer out there to follow immediately.  
+## 2. Maybe leave few important tips for beginners:
+Your valuable tips and suggestions that you wish you knew before you started and suggest every beginner out there to follow immediately.  
 
 Check out [TIPS.md](/TIPS.md) file to add your personal tips.
 
 -----
 
-## 3. For Begineer's:
+## 3. For Beginners:
 Leave a name of a resources that you are using right now to learn programming so others can take benefit from it as well:  
 
 Check out [RESOURCES.md](/RESOURCES.md) file to add your one favorite resource.
