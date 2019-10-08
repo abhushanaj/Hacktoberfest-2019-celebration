@@ -16,7 +16,7 @@ Style your pages the way you want. Add custom images, stylesheets and even anima
 -----
 
 ## 2. Maybe leave few important tips for beginners:
-Your valuable tips and suggestions that you wish you knew before you started and suggest every begineer out there to follow immediately.  
+Your valuable tips and suggestions that you wish you knew before you started and suggest every beginner out there to follow immediately.  
 
 Check out [TIPS.md](/TIPS.md) file to add your personal tips.
 
