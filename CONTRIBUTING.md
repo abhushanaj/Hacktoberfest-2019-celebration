@@ -10,8 +10,6 @@ Style your pages the way you want. Add custom images, stylesheets and even anima
 **Add HTML pages to /pages**  
 **Add CSS  to /stylesheet**  
 **Add JS  to /scripts**  
-**Add Images to /images**  
-
 **Name all files by you user_name or personal names.**
 
 
