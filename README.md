@@ -70,7 +70,7 @@ Now submit the pull request. Leave a custom message if you want.
 
 # Motivation
 There seems to be a lot of hype aroung hacktoberfest this season and I love it. Contributing to Open Source can be a highly satisfying experience, especially for new developers out there who have just started with their journey. I am one of such developer, who is teaching himself to penetrate into  on Full Stack Development Indutry by teaching himself Web Development and Programming since a few months. Hacktober Fest came as a gift  to me to finally showcase my abilities no matter in what ever way possible(big or small) and made me more confident.
-I believe there are many more students/self-taught begineer's out there, waiting for their first cool swags and T-shirt to boast about along with a great learning experience. So I started a small initiative to support all of you in this journey including myself.  
+I believe there are many more students/self-taught beginners out there, waiting for their first cool swags and T-shirt to boast about along with a great learning experience. So I started a small initiative to support all of you in this journey including myself.  
 
 How will this work:  
 You get your PR's done and contribute to a cool repository by sharing your stories and struggles and helping others in their journey.  
