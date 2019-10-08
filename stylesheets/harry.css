@@ -1,0 +1,45 @@
+body, html {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: auto;
+    max-width: 500px;
+    text-align: center;
+}
+
+.harry {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 10vh;
+}
+
+.hacktoberfest_logo {
+    max-width: 300px;
+    height: auto;
+}
+
+#harryBtn {
+    padding: 20px 40px;
+    font-size: 20px;
+    background-color: purple;
+    color: #fff;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    overflow: hidden;
+    transition-duration: 2s;
+    transition-property: transform;
+}
+
+#harryBtn.active {
+    font-size: 100px;
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    animation-iteration-count: infinite;
+}
+
+#harryBtn:hover {
+    cursor: pointer;
+}
