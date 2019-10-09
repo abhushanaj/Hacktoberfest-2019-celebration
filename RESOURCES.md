@@ -4,10 +4,14 @@
 
   I [Abhushan Adhikari Joshi](https://github.com/abhu-A-J) recommend [FreeCodeCamp](https://www.freecodecamp.org/)
 
--->
+--->
 
 I [Khuzama Shahid](https://github.com/khuzama98) recommend [Scrimba for React.js](https://scrimba.com/g/glearnreact)
 
 I [Nic M](https://github.com/nicm42) recommend [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
 
+
 I [Matthew Francis](https://github.com/mafro28) recommend [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
+
+I [Brandon C](https://github.com/Bculp) recommend [Git Guide](http://rogerdudler.github.io/git-guide/)
+
