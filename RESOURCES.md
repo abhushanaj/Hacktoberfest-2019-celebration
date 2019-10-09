@@ -11,7 +11,10 @@ I [Khuzama Shahid](https://github.com/khuzama98) recommend [Scrimba for React.js
 I [Nic M](https://github.com/nicm42) recommend [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
 
 
+I [Swayam Samyak Debasis](https://github.com/nicm42) recommend [Beginner level Devlopment](https://www.w3schools.com/)
+
 I [Matthew Francis](https://github.com/mafro28) recommend [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
 
 I [Brandon C](https://github.com/Bculp) recommend [Git Guide](http://rogerdudler.github.io/git-guide/)
+
 
