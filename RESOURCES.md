@@ -8,6 +8,8 @@
 
 I [Nabeel Ahmed Khan](https://github.com/n4beel) recommend [learnux.io to learn about UI/UX techniques](https://learnux.io)
 
+I [Osama Muhammad](https://github.com/osamamuhammad) recommend [Codelabs for Android Development](https://codelabs.developers.google.com)
+
 I [Khuzama Shahid](https://github.com/khuzama98) recommend [Scrimba for React.js](https://scrimba.com/g/glearnreact)
 
 I [Nic M](https://github.com/nicm42) recommend [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
