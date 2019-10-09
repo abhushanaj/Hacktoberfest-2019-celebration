@@ -9,7 +9,7 @@ I [Matthew Francis](https://github.com/mafro28) always recommend backing up your
 
 I [Swayam Samyak Debasis](https://github.com/Swayamsvk) suggests you to be patient while coding and solving issues to get better results.   
 
-
+I [Meghna]() would recomment you to join the dev community, attend meetups in order to meet like-minded people who'll keep you inspired and motivating.
 
 
 
