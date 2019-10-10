@@ -25,3 +25,5 @@ I [Meghna](https://github.com/meghnareddy1999) recommend [Flexbox froggy to prac
 I [Ley2717] recommend [Pluralsight for great video training ](https://app.pluralsight.com/)
 
 I [Rafael Mendoza](https://github.com/rcode321) recommend [How to learn AI/Artificial Intelligence](https://www.edx.org/professional-certificate/microsoft-artificial-intelligence)
+
+I [Kushantha Charuka](https://github.com/Kushiya) recommend [Learn to UI Designing](https://learnui.design/)
