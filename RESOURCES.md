@@ -29,3 +29,5 @@ I [Rafael Mendoza](https://github.com/rcode321) recommend [How to learn AI/Artif
 I [Kushantha Charuka](https://github.com/Kushiya) recommend [Learn to UI Designing](https://learnui.design/)
 
 I [Kushantha Charuka](https://github.com/Kushiya) recommend [Learn to code in HTML](https://www.codecademy.com/learn/learn-html)
+
+I [Jerrin Dawny](https://github.com/Jdon707) recommend [W3Schools](https://www.w3schools.com/)
