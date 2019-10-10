@@ -23,3 +23,5 @@ I [Brandon C](https://github.com/Bculp) recommend [Git Guide](http://rogerdudler
 I [Meghna](https://github.com/meghnareddy1999) recommend [Flexbox froggy to practise flexbox](https://flexboxfroggy.com/)
 
 I [Ley2717] recommend [Pluralsight for great video training ](https://app.pluralsight.com/)
+
+I [Rafael Mendoza](https://github.com/rcode321) recommend [How to learn AI/Artificial Intelligence](https://www.edx.org/professional-certificate/microsoft-artificial-intelligence)
