@@ -31,3 +31,7 @@ I [Kushantha Charuka](https://github.com/Kushiya) recommend [Learn to UI Designi
 I [Kushantha Charuka](https://github.com/Kushiya) recommend [Learn to code in HTML](https://www.codecademy.com/learn/learn-html)
 
 I [Jerrin Dawny](https://github.com/Jdon707) recommend [W3Schools](https://www.w3schools.com/)
+
+I [Hardik Agarwal](https://github.com/Hardikag17) recommend [stackoverflow to Ask any questions about programming](https://stackoverflow.com/)
+
+I [Hardik Agarwal](https://github.com/Hardikag17) recommend [hackerrank to practice competitive programming](https://www.hackerrank.com)
