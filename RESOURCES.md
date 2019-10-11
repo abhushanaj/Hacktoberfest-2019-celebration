@@ -32,6 +32,6 @@ I [Kushantha Charuka](https://github.com/Kushiya) recommend [Learn to code in HT
 
 I [Jerrin Dawny](https://github.com/Jdon707) recommend [W3Schools](https://www.w3schools.com/)
 
-I [Hardik Agarwal](https://github.com/Hardikag17) recommend [Ask any questions about programming](https://stackoverflow.com/)
+I [Hardik Agarwal](https://github.com/Hardikag17) recommend [stackoverflow to Ask any questions about programming](https://stackoverflow.com/)
 
-I [Hardik Agarwal](https://github.com/Hardikag17) recommend [practice competitive programming](https://www.hackerrank.com)
+I [Hardik Agarwal](https://github.com/Hardikag17) recommend [hackerrank to practice competitive programming](https://www.hackerrank.com)
