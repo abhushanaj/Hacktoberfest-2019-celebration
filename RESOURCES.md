@@ -35,3 +35,7 @@ I [Jerrin Dawny](https://github.com/Jdon707) recommend [W3Schools](https://www.w
 I [Hardik Agarwal](https://github.com/Hardikag17) recommend [stackoverflow to Ask any questions about programming](https://stackoverflow.com/)
 
 I [Hardik Agarwal](https://github.com/Hardikag17) recommend [hackerrank to practice competitive programming](https://www.hackerrank.com)
+
+I [anis dabdi](https://github.com/ansdb) recommend [Test you JS RegExp skills with this test & know your rank](https://www.play.inginf.units.it)
+
+I [anis dabdi](https://github.com/ansdb) recommend [CSS Diner help you know the most of CSS selectors in a funny way](https://www.flukeout.github.io)
