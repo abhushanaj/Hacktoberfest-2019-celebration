@@ -1,0 +1,55 @@
+/* universal styles */
+
+html {
+	font-family: 'Montserrat', sans-serif;
+	color: #000;
+	height: auto;
+	min-height: 100%;
+	font-size: 16px;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+h1 {
+	font-size: 3rem;
+	margin: 0;
+	padding-bottom: 2%;
+}
+
+.copyright {
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	padding-bottom: 20px;
+}
+
+.social {
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+}
+
+.social a {
+	color: #000;
+}
+
+.image-content i {
+	padding-right: 10px;
+}
+
+.twitter {
+	padding-left: 60px;
+	padding-right: 60px;
+}
+
+.copyright i {
+	color: #cd0000;
+	transform: scale(.9);
+	animation: fas .5s infinite linear alternate-reverse;
+}
+
+@keyframes fas {
+  to { transform: scale(1.1); }
+}

@@ -1,0 +1,38 @@
+body, html {
+    background-color: rgb(31, 30, 116);
+    color:  rgb(194, 29, 186);
+    margin: auto;
+    max-width: 500px;
+    text-align: center;
+}
+h1{
+    font-family: 'Finger Paint', cursive;
+}
+
+p{
+    font-family: 'Schoolbell', cursive;
+    font-size: 20px;
+}
+
+#animate {
+    width: 85px;
+    height: 85px;
+    position: absolute;
+    background-color: white;
+    border-radius: 40px;
+}
+
+.hacktoberfest_logo {
+    width: 150px;
+    height: 150px; 
+}
+.my_btn{
+    padding: 20px 50px;
+    font-size: 20px;
+    background-color: rgb(194, 29, 186);
+    color: #fff;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    overflow: hidden;
+  
+}
