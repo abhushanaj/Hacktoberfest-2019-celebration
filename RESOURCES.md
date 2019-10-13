@@ -38,4 +38,10 @@ I [Hardik Agarwal](https://github.com/Hardikag17) recommend [hackerrank to pract
 
 I [anis dabdi](https://github.com/ansdb) recommend [Test you JS RegExp skills with this test & know your rank](play.inginf.units.it)
 
+
+I [Dony Cisneros](https://github.com/donycisneros) recommend [Flavio Copes's blog](https://flaviocopes.com/)
+
+I [Dony Cisneros](https://github.com/donycisneros) recommend [Udacity courses free and paid](https://www.udacity.com/courses/all)
+
 I [anis dabdi](https://github.com/ansdb) recommend [Cool competitive programming website to test your problem solving skills](https://www.codewars.com)
+
