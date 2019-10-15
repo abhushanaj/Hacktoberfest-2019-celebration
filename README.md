@@ -18,13 +18,13 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 Now let's bring the cloned repository to your local machine.  
 ``` git clone <url-you-just-copied> ```  
 For example:  
-``` git clone https://github.com/abhu-A-J/Hacktoberfest-2018-celebration.git ```
+``` git clone https://github.com/abhu-A-J/Hacktoberfest-2019-celebration.git ```
 
 ------
 
 ## 3. Move inside the repository 
 Since you want to change the files inside, first let's move to the folder correctly. Use the following command on terminal:  
-``` cd Hacktoberfest-2018-celebration ```
+``` cd Hacktoberfest-2019-celebration ```
 
 ------
 
