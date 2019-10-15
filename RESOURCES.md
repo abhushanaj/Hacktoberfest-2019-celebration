@@ -26,6 +26,9 @@ I [Ley2717] recommend [Pluralsight for great video training ](https://app.plural
 
 I [Rafael Mendoza](https://github.com/rcode321) recommend [How to learn AI/Artificial Intelligence](https://www.edx.org/professional-certificate/microsoft-artificial-intelligence)
 
+
+I [Radadiya Mohit](https://github.com/RaDaDiYaMoHiT) recommend [Beginner level for Java Developer](https://www.javatpoint.com/java-tutorial/)
+
 I [Kushantha Charuka](https://github.com/Kushiya) recommend [Learn to UI Designing](https://learnui.design/)
 
 I [Kushantha Charuka](https://github.com/Kushiya) recommend [Learn to code in HTML](https://www.codecademy.com/learn/learn-html)
