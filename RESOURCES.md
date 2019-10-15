@@ -45,3 +45,5 @@ I [Dony Cisneros](https://github.com/donycisneros) recommend [Udacity courses fr
 
 I [anis dabdi](https://github.com/ansdb) recommend [Cool competitive programming website to test your problem solving skills](https://www.codewars.com)
 
+ I [capturethemoon](https://github.com/capturethemoon) recommend [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
+
