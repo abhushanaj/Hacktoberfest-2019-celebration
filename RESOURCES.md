@@ -52,3 +52,8 @@ I [anis dabdi](https://github.com/ansdb) recommend [Cool competitive programming
 
  I [capturethemoon](https://github.com/capturethemoon) recommend [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
 
+I [Arsalan Fakhar Siddiqui ](https://github.com/arsalanfakhar) recommend [Youtube](https://www.youtube.com/watch?v=IsLyduxZ9sc&list=PLX9Zi6XTqOKQ7TdRz0QynGIKuMV9Q2H8E)
+
+I [Arsalan Fakhar Siddiqui ](https://github.com/arsalanfakhar) recommend [Udemy](https://www.udemy.com/course/android-architecture-componentsmvvm-with-dagger-retrofit/)
+
+I [Arsalan Fakhar Siddiqui ](https://github.com/arsalanfakhar) recommend [W3Schools](https://www.w3schools.com/sql/)
