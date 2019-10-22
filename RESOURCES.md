@@ -59,3 +59,5 @@ I [Arsalan Fakhar Siddiqui ](https://github.com/arsalanfakhar) recommend [Udemy]
 I [Arsalan Fakhar Siddiqui ](https://github.com/arsalanfakhar) recommend [W3Schools](https://www.w3schools.com/sql/)
 
 I [Pravallika Kura](https://github.com/PravallikaKura) recommend [Florin Pop project ideas to work on side projects](https://github.com/florinpop17/app-ideas)
+
+I [Nisheanthan] (https://github.com/Nisheanthan) recommend [Java course for beginners by Edureka via YouTube](https://www.youtube.com/watch?v=hBh_CC5y8-s)
