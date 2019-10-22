@@ -59,3 +59,5 @@ I [Arsalan Fakhar Siddiqui ](https://github.com/arsalanfakhar) recommend [Udemy]
 I [Arsalan Fakhar Siddiqui ](https://github.com/arsalanfakhar) recommend [W3Schools](https://www.w3schools.com/sql/)
 
 I [Pravallika Kura](https://github.com/PravallikaKura) recommend [Florin Pop project ideas to work on side projects](https://github.com/florinpop17/app-ideas)
+
+I [Ricci](https://github.com/riccikl) recommend [Lear JavaScript with "You-Dont-Know-JS"](https://github.com/getify/You-Dont-Know-JS)
