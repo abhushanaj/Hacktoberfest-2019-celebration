@@ -79,15 +79,8 @@ main()
     printf("\t\tBiodata\n");
    
     printf("Name:%s",a);
-}
-#include<stdio.h>
-main()
-{
-     char a[5]="Laia";
-     int b=345;
-    printf("\t\tBiodata\n");
-    printf("Name:%s",a);
-    printf("\nRoll No-%d",b);
+    
+    
 }
 #include<stdio.h>
 main()
