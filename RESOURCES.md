@@ -64,4 +64,5 @@ I [Pravallika Kura](https://github.com/PravallikaKura) recommend [Florin Pop pro
 I [Ricci](https://github.com/riccikl) recommend [Learn JavaScript with "You-Dont-Know-JS"](https://github.com/getify/You-Dont-Know-JS)
 
 I [Nisheanthan] (https://github.com/Nisheanthan) recommend [Java course for beginners by Edureka via YouTube](https://www.youtube.com/watch?v=hBh_CC5y8-s)
+I [Rohit](https://github.com/rohitpatidar91981) recommend [Learn c language with "slo-learn-app"](https://play.google.com › store › apps › details › id=com.sololearn)
 
