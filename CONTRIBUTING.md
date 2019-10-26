@@ -5,7 +5,7 @@ You can make your contributions in any one of the following ways or even all of 
 
  ## 1. Adding your Coding Story/Journey:
 Take some time off and maybe contribute your story through a web page (HTML+CSS) describing how coding has changed your life/how and why you decided to break into such a field/why you love programming and more.  
-Style your pages the way you want. Add custom images, stylesheets and even animations if you love them. Add maximum of 5 paragraphs and minimum of 2 to limit the amount of information you provide.
+Style your pages the way you want. Add custom images, stylesh1561462nd even animations if you love them. Add maximum of 5 paragraphs and minimum of 2 to limit the amount of information you provide.
 
 **Add HTML pages to /pages**  
 **Add CSS  to /stylesheet**  
