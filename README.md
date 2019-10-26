@@ -39,13 +39,13 @@ For example:
 -----
 
 ## 5. Make the required changes
-Check out the [CONTRIBUTING.md](/CONTRIBUTING.md) file to see what all contributions can you make. 
+Check out the [CONTRIBUTING.md](/CONTRIBUTING.md) file to see what all contributions that you can make. 
 
 
 ----
 
 ## 6. Commit all your changes
-It's finally that time when you commit your changes and leave a beautiful commit message behind. You can run the following commands:
+It's finally the time to commit your changes and leave a beautiful commit message behind. You can run the following commands:
 
 ``` git add . ```    
 ``` git commit -m "<Your Message>" ```  
