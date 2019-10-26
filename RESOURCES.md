@@ -64,9 +64,9 @@ I [Ricci](https://github.com/riccikl) recommend [Learn JavaScript with "You-Dont
 I [Nisheanthan] (https://github.com/Nisheanthan) recommend [Java course for beginners by Edureka via YouTube](https://www.youtube.com/watch?v=hBh_CC5y8-s)
 
 
-I [Avishek Paul] (https://github.com/avi4567) recommend [Learn C++](https://www.learncpp.com/)
+I [Avishek Paul](https://github.com/avi4567) recommend [Learn C++](https://www.learncpp.com/)
 
-I [Avishek Paul] (https://github.com/avi4567) recommend [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)
+I [Avishek Paul](https://github.com/avi4567) recommend [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)
 
 I [trapkka997](https://github.com/trapkka997) recommend [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 
