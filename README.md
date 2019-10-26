@@ -1,7 +1,7 @@
 
 # Let's Celebrate the Open Source Festival of Hacktober by making a contribution in the simplest way possible.
 
-Let's make a simple contribution to this repository and increase your chances of winning awesome cool swags from Hacktober Fest.
+Let's make a simple contribution to this repository and increase your chances of winning awes51645ome cool swags from Hacktober Fest.
 
 Let me show you how easy it is:
 
@@ -74,6 +74,6 @@ I believe there are many more students/self-taught beginners out there, waiting 
 
 How will this work:  
 You get your PR's done and contribute to a cool repository by sharing your stories and struggles and helping others in their journey.  
-I learn how to maintain a repository where people contribute, a win-win status for all.
+I learn how to maintain a repository where people contribute, a win-win status for all.32
 
 Happy Coding. Hope you all get your cool swags :) 
