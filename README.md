@@ -3,7 +3,7 @@
 
 Let's make a simple contribution to this repository and increase your chances of winning awesome cool swags from Hacktober Fest.
 
-Let me show you how easy it is:
+Let me show you how simple it is to begin:
 
 ## 1. Fork this repository
 
@@ -14,7 +14,7 @@ This will create a copy of this repository in your account.
 
 ## 2. Clone the repository
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the *copy to clipboard* icon.  
+Now clone the forked repository in your machine. Open your GitHub account, go to the forked repository, click on the clone button and then click the *copy to clipboard* icon.  
 Now let's bring the cloned repository to your local machine.  
 ``` git clone <url-you-just-copied> ```  
 For example:  
