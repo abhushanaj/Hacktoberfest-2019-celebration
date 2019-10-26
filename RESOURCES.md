@@ -6,7 +6,7 @@
 
 --->
 
-  I [capturethemoon](https://github.com/capturethemoon) recommend [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+  I [capturethemoon](https://github.com/capturethemoon) recommend [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)ritika
 
 I [Nabeel Ahmed Khan](https://github.com/n4beel) recommend [learnux.io to learn about UI/UX techniques](https://learnux.io)
 
