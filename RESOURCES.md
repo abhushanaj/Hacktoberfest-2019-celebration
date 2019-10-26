@@ -72,4 +72,11 @@ I [Nisheanthan] (https://github.com/Nisheanthan) recommend [Java course for begi
     printf("Hello World!");
 }
 
-
+#include<stdio.h>
+main()
+{
+     char a[5]="Laia";
+    printf("\t\tBiodata\n");
+   
+    printf("Name:%s",a);
+}
