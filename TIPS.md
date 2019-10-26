@@ -1,4 +1,4 @@
-# Tips I would suggest every begineer:
+# Tips I would suggest every begineerr:
 
 <!-- Follow the following format to maintain uniformity:
  
