@@ -1,10 +1,7 @@
 # Resources which have helped me to learn programming:
 
 <!---Follow the following format to maintain uniformity:
-nhvhfdtre
-
-  I [Abhushan Adhikari Joshi](https://github.com/abhu-A-J) recommend [FreeCodeCamp](https://www.freecodecamp.org/)
-
+I [Abhushan Adhikari Joshi](https://github.com/abhu-A-J) recommend [FreeCodeCamp](https://www.freecodecamp.org/)
 --->
 
   I [capturethemoon](https://github.com/capturethemoon) recommend [The Nett Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
