@@ -5,7 +5,7 @@
   I [Abhushan Adhikari Joshi](https://github.com/abhu-A-J) suggests you that it's okay to make mistakes and fail miserably because with time you're only going to get better.  
 -->
 
-I [Matthew Francis](https://github.com/mafro28) always recommend backing up your work so you don't lose valuable progress!.   
+I [Mathew Francis](https://github.com/mafro28) always recommend backing up your work so you don't lose valuable progress!.   
 
 I [Swayam Samyak Debasis](https://github.com/Swayamsvk) suggests you to be patient while coding and solving issues to get better results.   
 
