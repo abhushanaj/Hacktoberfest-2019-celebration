@@ -67,4 +67,4 @@ I [Nisheanthan] (https://github.com/Nisheanthan) recommend [Java course for begi
 
 I [Prashant Kumar](https://github.com/prashantkumarved) recommend [Beginner level for Java Developer](https://www.javatpoint.com/java-tutorial/)
 
-I [Prashant Kumar](https://github.com/prashantkumarved) recommend [Creating a Github Accountr](https://github.com/)
+I [Prashant Kumar](https://github.com/prashantkumarved) recommend [Creating a Github Account](https://github.com/)
