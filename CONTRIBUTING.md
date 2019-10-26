@@ -27,5 +27,9 @@ Leave a name of a resources that you are using right now to learn programming so
 
 Check out [RESOURCES.md](/RESOURCES.md) file to add your one favorite resource.
 
------
+#4.Maybe leave few important tips for beginners:
+Your valuable tips and suggestions that you wish you knew before you started and suggest every beginner out there to follow immediately.  
+
+Check out [TIPS.md](/TIPS.md) file to add your personal tips.
+00000
     
