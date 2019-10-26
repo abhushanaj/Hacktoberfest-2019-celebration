@@ -6,6 +6,8 @@
 
 --->
 
+  I [Shivam Pandit](https://github.com/ShiP51) recommend Jetbrains Pycharm Community Edition as an effective IDE tool for code editing.](https://www.jetbrains.com/pycharm/)
+  
   I [capturethemoon](https://github.com/capturethemoon) recommend [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
 I [Nabeel Ahmed Khan](https://github.com/n4beel) recommend [learnux.io to learn about UI/UX techniques](https://learnux.io)
