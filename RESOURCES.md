@@ -65,3 +65,50 @@ I [Ricci](https://github.com/riccikl) recommend [Learn JavaScript with "You-Dont
 
 I [Nisheanthan] (https://github.com/Nisheanthan) recommend [Java course for beginners by Edureka via YouTube](https://www.youtube.com/watch?v=hBh_CC5y8-s)
 
+#include <stdio.h>
+int main()
+{
+    int n, reversedInteger = 0, remainder, originalInteger;
+    printf("Enter an integer: ");
+    scanf("%d", &n);
+    originalInteger = n;
+    // reversed integer is stored in variable 
+    while( n!=0 )
+    {
+        remainder = n%10;
+        reversedInteger = reversedInteger*10 + remainder;
+        n /= 10;
+    }
+    // palindrome if orignalInteger and reversedInteger are equal
+    if (originalInteger == reversedInteger)
+        printf("%d is a palindrome.", originalInteger);
+    else
+        printf("%d is not a palindrome.", originalInteger);
+    
+    return 0;
+}
+
+#include <stdio.h>
+int main()
+{
+   int i, num, p = 0;
+   printf("Please enter a number: \n");
+   scanf("%d", &num);
+   for(i=1; i<=num; i++)
+   {
+      if(num%i==0)
+      {
+         p++;
+      }
+   }
+   if(p==2)
+   {
+      printf("Entered number is %d "\
+             "and it is a prime number.",num);
+   }
+   else
+   {
+      printf("Entered number is %d "\
+             "and it is not a prime number.",num);
+   }
+}
