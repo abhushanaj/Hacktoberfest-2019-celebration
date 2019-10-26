@@ -63,5 +63,6 @@ I [Pravallika Kura](https://github.com/PravallikaKura) recommend [Florin Pop pro
 
 I [Ricci](https://github.com/riccikl) recommend [Learn JavaScript with "You-Dont-Know-JS"](https://github.com/getify/You-Dont-Know-JS)
 
-I [chalcedony] (https://github.com/kalcednybuhroy) recommend [Edit c language coding with "Turbo C++"](https://www.youtube.com/watch?v=R15KpkibkR0)
+I [chalcedony](https://github.com/kalcednybuhroy) recommend [Edit c language coding with "Turbo C++"](https://www.youtube.com/watch?v=R15KpkibkR0)
+ 
 
