@@ -15,6 +15,9 @@ I [Nisheanthan](https://github.com/Nisheanthan) I will say that you should never
 
 I [Muhammad anas](https://github.com/muhammadanas759) always use git when working in a team. 
 
+
+I [Avishek Paul](https://github.com/avi4567)Avoid making simple syntax errors.
+
 I [Imdad](https://github.com/imdadnitm) RedBull mei Alcohol nhi hota hei...There is no alcohol in RedBull..!!
 
 
@@ -22,4 +25,5 @@ I [Niraj kumar](http://github.com/nirajsam786)always recommendable github to joi
 
 I [Navamani Prasath Ashwin](https://github.com/naniiuvvirus007)just recommend to explore everything and learn from mistakes.
 I [Navamani Prasath Ashwin](https://github.com/naniiuvvirus007) recommend dont hesitate to ask doubts.
+
 
