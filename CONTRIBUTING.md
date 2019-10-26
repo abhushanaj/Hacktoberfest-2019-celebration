@@ -4,7 +4,7 @@ Now let's help you get your first contribution to my project on most easiest way
 You can make your contributions in any one of the following ways or even all of them (completely upto you):
 
  ## 1. Adding your Coding Story/Journey:
-Take some time off and maybe contribute your story through a web page (HTML+CSS) describing how coding has changed your life/how and why you decided to break into such a field/why you love programming and more.  
+I [Nisheanthan](https://github.com/Nisheanthan) I will say that you should never be afraid to learn while start coding. Yes, It's hard but it once if you start singing, you will hear yourself amazing in coding. Happy Coding.
 Style your pages the way you want. Add custom images, stylesheets and even animations if you love them. Add maximum of 5 paragraphs and minimum of 2 to limit the amount of information you provide.
 
 **Add HTML pages to /pages**  
@@ -27,5 +27,6 @@ Leave a name of a resources that you are using right now to learn programming so
 
 Check out [RESOURCES.md](/RESOURCES.md) file to add your one favorite resource.
 
+I [Nisheanthan](https://github.com/Nisheanthan) I will say that you should never be afraid to learn while start coding. Yes, It's hard but it once if you start singing, you will hear yourself amazing in coding. Happy Coding.
 -----
     
