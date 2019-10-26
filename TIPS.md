@@ -13,3 +13,4 @@ I [Meghna]() would recomment you to join the dev community, attend meetups in or
 
 I [Nisheanthan](https://github.com/Nisheanthan) I will say that you should never be afraid to learn while start coding. Yes, It's hard but it once if you start singing, you will hear yourself amazing in coding. Happy Coding.
 I [Muhammad anas](https://github.com/muhammadanas759) always use git when working in a team. 
+I [Alok DWivedi](https://github.com/alokdwivedialokdwivedi) When I started coding I found lot of difficultied. If you are beginner in coding then its important for you that you make practise. the more you practised the more you learnt in coding. if your determination toward coding is firm then no-one here who can stop you. You find yourself at the top in coding. Just enjoy your coding with practise. happy coding.
