@@ -22,7 +22,8 @@ I [Imdad](https://github.com/imdadnitm) RedBull mei Alcohol nhi hota hei...There
 
 I [Niraj kumar](http://github.com/nirajsam786)always recommendable github to join this community
 
-I [Navamani Prasath Ashwin](https://github.com/naniiuvvirus007)just recommend to explore everything and learn from mistakes.
+I [Navamani Prasath Ashwin](https://github.com/naniiuvvirus007)just recommend to explore everything and learn from mistakes.  
+
 I [Navamani Prasath Ashwin](https://github.com/naniiuvvirus007) recommend dont hesitate to ask doubts.
 
 
