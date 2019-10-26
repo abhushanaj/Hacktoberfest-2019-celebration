@@ -65,3 +65,4 @@ I [Ricci](https://github.com/riccikl) recommend [Learn JavaScript with "You-Dont
 
 I [Nisheanthan] (https://github.com/Nisheanthan) recommend [Java course for beginners by Edureka via YouTube](https://www.youtube.com/watch?v=hBh_CC5y8-s)
 
+I [Avishek Paul] (https://github.com/avi4567) recommend [Learn C++] (https://www.learncpp.com/)
