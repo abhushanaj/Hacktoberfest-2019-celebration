@@ -1,0 +1,1 @@
+alert("Click OK to visit my web page!");

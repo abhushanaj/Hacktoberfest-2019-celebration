@@ -1,0 +1,31 @@
+body{ 
+   background: -webkit-linear-gradient(to right,  hsl(0, 100%, 90%), #485563); 
+   background: linear-gradient(to right,  hsl(0, 100%, 90%), #485563); 
+   }
+   
+   h2{
+    color: #000080;
+    text-align: center;
+    font-size: 37px;
+    text-shadow: 2px 2px pink;
+   }
+    h1{
+     font-size:5rem;
+     color:#000080;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     text-align: center;
+     margin-top:10%;
+     text-shadow: 3px 2px pink;
+   }
+   h3{
+    border: 3px;
+    border-style: double;
+    color: red;
+    padding: 2em;
+    color: #000080;
+    text-align: center;
+    font-size: 25px;
+    text-shadow: 0.5px 0.5px pink;
+   }
