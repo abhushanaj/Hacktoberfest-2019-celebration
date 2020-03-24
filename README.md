@@ -1,3 +1,5 @@
+[![GitHub issues](https://img.shields.io/github/issues/abhu-A-J/Hacktoberfest-2019-celebration?style=for-the-badge)](https://github.com/abhu-A-J/Hacktoberfest-2019-celebration/issues) [![GitHub forks](https://img.shields.io/github/forks/abhu-A-J/Hacktoberfest-2019-celebration?style=for-the-badge)](https://github.com/abhu-A-J/Hacktoberfest-2019-celebration/network) [![GitHub stars](https://img.shields.io/github/stars/abhu-A-J/Hacktoberfest-2019-celebration?color=green&style=for-the-badge)](https://github.com/abhu-A-J/Hacktoberfest-2019-celebration/stargazers)
+
 
 # Let's Celebrate the Open Source Festival of Hacktober by making a contribution in the simplest way possible.
 
